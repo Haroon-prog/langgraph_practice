@@ -6,6 +6,7 @@ langchain-core
 
 # Anthropic Integration 
 langchain-anthropic
+langchain-groq
 
 # Google Gemini (PaLM) Integration
 langchain-google-genai
