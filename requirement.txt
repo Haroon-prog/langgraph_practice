@@ -3,6 +3,8 @@ langgraph
 # LangChain Core
 langchain
 langchain-core
+langchain-community
+sentence-transformers
 
 # Anthropic Integration 
 langchain-anthropic
